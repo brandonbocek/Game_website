@@ -1,0 +1,25 @@
+header {
+    width: auto;
+    height: 200px;
+    margin: 50;
+    |
+}
+
+.logo {
+    position: relative;
+    margin: 3%;
+    padding-top: 25px;
+}
+
+#mainContent {
+    margin-top: 40%;
+    text-decoration-color: aliceblue;
+    height: 500px;
+    background-color: aquamarine;
+    float: left;
+}
+
+#logo {
+    display: inline-block;
+    height: 150px;
+}
